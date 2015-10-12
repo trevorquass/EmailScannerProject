@@ -1,0 +1,9 @@
+C:\Users\tquass_be\EmailScanner\EmailScannerProject\EmailScannerProject\bin\Debug\EmailScannerProject.exe.config
+C:\Users\tquass_be\EmailScanner\EmailScannerProject\EmailScannerProject\bin\Debug\EmailScannerProject.exe
+C:\Users\tquass_be\EmailScanner\EmailScannerProject\EmailScannerProject\bin\Debug\EmailScannerProject.pdb
+C:\Users\tquass_be\EmailScanner\EmailScannerProject\EmailScannerProject\obj\Debug\EmailScannerProject.exe
+C:\Users\tquass_be\EmailScanner\EmailScannerProject\EmailScannerProject\obj\Debug\EmailScannerProject.pdb
+C:\Users\tquass_be\Dropbox\EmailScanner\EmailScannerProject\EmailScannerProject\bin\Debug\EmailScannerProject.exe.config
+C:\Users\tquass_be\Dropbox\EmailScanner\EmailScannerProject\EmailScannerProject\obj\Debug\EmailScannerProject.exe
+C:\Users\tquass_be\Dropbox\EmailScanner\EmailScannerProject\EmailScannerProject\obj\Debug\EmailScannerProject.pdb
+C:\Users\tquass_be\EmailScanner\EmailScannerProject\EmailScannerProject\obj\Debug\EmailScannerProject.csprojResolveAssemblyReference.cache

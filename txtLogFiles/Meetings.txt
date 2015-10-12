@@ -1,0 +1,5 @@
+to: DevTeam@SoftTech.com
+from: Bruce.Springsteen@SoftTech.com
+subject: New Project
+Context: 
+However, the kickoff meeting will be right before lunch at 11:30.
